@@ -6,8 +6,10 @@ package Lists;
 
 /**
  *
- * @author Student
+<<<<<<< HEAD
+ * @author Student,galla
  */
 public interface List <T> {
+    public T find(Object id);
     public void ShowAll();
 }
